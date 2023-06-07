@@ -16,3 +16,6 @@ Schéma de la base de données :
 - iconColor
 - icon
 - radius
+
+# Lien http vers l'appli : 
+https://iot-piscine.onrender.com
